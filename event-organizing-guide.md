@@ -28,6 +28,7 @@
     - etc
   - Ajukan budget berdasarkan daftar kebutuhan
   - Detil proposal :
+    - Kebutuhan + budget
     - Jumlah peserta di proposal diambil dari spek venue yang diajukan
     - Tidak ada batas sponsor, sponsor terdiri dari :
       - Utama, hanya 1
