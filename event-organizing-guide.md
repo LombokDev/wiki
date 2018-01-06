@@ -122,6 +122,7 @@ Dokumen ini adalah panduan serba guna untuk menyelenggarakan acara di LombokDev.
     - Handycam
     - AC
   - SDM yang berlabel [H] harus siaga, sisanya standby
+  - Konsisten dengan jadwal
 
 ## Requirement pasca acara:
   - Distribusikan form feedback untuk peserta
