@@ -41,16 +41,16 @@
 - Kepanitian dan tanggung jawab
   - Perlengkapan:
     - Koordinasi requirement pra acara
-    - Checklist perlengkapan [H-1]
+    - Checklist perlengkapan [H-1] (lihat poin __persiapan perlengkapan acara__)
     - Checklist perlengkapan [H]
     - Menjaga acara berjalan lancar [H]
     - Stand registrasi [H]
   - Acara:
+    - Manajemen peserta (lihat di poin __manajemen peserta__)
     - Moderator [H]
-    - Publikasi dan Dokumentasi:
-      - Foto [H]
-      - Video [H]
-    - Requirement didaftar dalam tiket project
+  - Publikasi dan Dokumentasi:
+    - Foto [H]
+    - Video [H]
     - Persiapan publikasi (daring + luring)
       - Inisiasi repository (clone repo template acara)
       - Form registrasi - google form, inputan:
@@ -73,27 +73,28 @@
         - Tautan pendaftaran
         - Daftar topik
         - Sponsor
-       - Poster fisik untuk ditempel (opsional)
-     - Manajemen peserta
-       - Konfirmasi peserta bertingkat. Secara berurutan dikonfirmasi dengan email, sms dan telepon. Peserta yang tidak mengkonfirmasi email akan disms, dan seterusnya.
-         - Email (immediatelly, opsi di gform, responder dapat salinan responnya)
-         - Email
-         - Sms
-         - Telepon
-       - Gunakan siklus waiting list
-     - Persiapan perlengkapan acara :
-       - Sound system
-       - Microphone handless
-       - Voice recorder (bisa pakai smartphone)
-       - LCD Proyektor
-       - Kabel dan konverter (VGA, HDMI, Thunderbolt) 
-       - Kamera handycam untuk rekam video + tripod
-       - Kamera untuk foto
-       - X-Banner
-         - Logo LombokDev + logo sponsor
-         - Logo sub event ditambahkan urutan meetup, misal LombokDev Meetup #4,  LombokDev Hackathon #1
-       - Sponsor stuff (opsional)
-       - Stiker, logo stiker ikut bentuk sub acara (Meetup, Hackathon, Workshop)
+      - Poster fisik untuk ditempel (opsional)
+   - Requirement didaftar dalam tiket project untuk transparasi progres
+   - Manajemen peserta
+     - Konfirmasi peserta bertingkat. Secara berurutan dikonfirmasi dengan email, sms dan telepon. Peserta yang tidak mengkonfirmasi email akan disms, dan seterusnya.
+       - Email (immediatelly, opsi di gform, responder dapat salinan responnya)
+       - Email
+       - Sms
+       - Telepon
+     - Gunakan siklus waiting list
+   - Persiapan perlengkapan acara :
+     - Sound system
+     - Microphone handless
+     - Voice recorder (bisa pakai smartphone)
+     - LCD Proyektor
+     - Kabel dan konverter (VGA, HDMI, Thunderbolt) 
+     - Kamera handycam untuk rekam video + tripod
+     - Kamera untuk foto
+     - X-Banner
+       - Logo LombokDev + logo sponsor
+       - Logo sub event ditambahkan urutan meetup, misal LombokDev Meetup #4,  LombokDev Hackathon #1
+     - Sponsor stuff (opsional)
+     - Stiker, logo stiker ikut bentuk sub acara (Meetup, Hackathon, Workshop)
      - Presensi peserta
      - Susunan acara
      - Konsumsi
