@@ -6,11 +6,11 @@ Halaman ini berisi konsep-konsep acara yang sudah dan akan pakai oleh komunitas 
   
   Kriteria konten meetup meliputi:
   
-    - Tech Talk:
+    - [Tech Talk](./tech-talk.md):
       - Alokasi waktu bicara 30 menit
       - Alokasi tanya jawab 10 menit
       - Pembicara dibebaskan mengatur alokasi untuk tanya jawabnya, namun batas maksimal untuk keseluruhan sesi tech talk adalah 40 menit
-    - Lightning Talk:
+    - [Lightning Talk](./lightning-talk.md):
       - Alokasi waktu bicara 10 menit
       - Alokasi tanya jawab 5 menit
     
