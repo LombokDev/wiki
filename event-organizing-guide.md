@@ -16,10 +16,8 @@ Dokumen ini adalah panduan serba guna untuk menyelenggarakan acara di LombokDev.
   - Meetup (tech talk & lightning talk) :
     - Setiap meetup, 1 topik non-teknis (opsional, diusahakan)
     - Masukkan topik ke kolom dijadwalkan
-    - Geser proposal (Talks Proposal) yang dijadwalkan ke kolom selesai
   - Workshop :
     - Masukkan topik ke kolom dijadwalkan
-    - Geser proposal (Talks Proposal) yang dijadwalkan ke kolom selesai
   - Hackathon :
     - Tema hackhaton diambil dari masalah riil yang ada di masyarakat
 - Tetapkan tanggal acara
@@ -145,3 +143,4 @@ Dokumen ini adalah panduan serba guna untuk menyelenggarakan acara di LombokDev.
     - Video - Youtube, Youtube standar license 
     - Blog - Medium
   - Ucapan terima kasih atas sponsorship di sosmed
+  - Geser proposal (Talks Proposal) yang dijadwalkan ke kolom selesai
