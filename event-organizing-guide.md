@@ -78,6 +78,7 @@ Dokumen ini adalah panduan serba guna untuk menyelenggarakan acara di LombokDev.
         - Daftar topik
         - Sponsor
       - Poster fisik untuk ditempel (opsional)
+      - Ucapan terima kasih atas sponsorship di sosmed
    - Requirement didaftar dalam tiket project untuk transparasi progres
    - Manajemen peserta
      - Konfirmasi peserta bertingkat. Secara berurutan dikonfirmasi dengan email, sms dan telepon. Peserta yang tidak mengkonfirmasi email akan disms, dan seterusnya.
@@ -123,6 +124,9 @@ Dokumen ini adalah panduan serba guna untuk menyelenggarakan acara di LombokDev.
     - AC
   - SDM yang berlabel [H] harus siaga, sisanya standby
   - Konsisten dengan jadwal
+  - Dokumentasi foto dan video, minimal :
+    - Foto bersama
+    - Harus ada dokumentasi yang meliputi logo sponsor
 
 ## Requirement pasca acara:
   - Distribusikan form feedback untuk peserta
@@ -140,3 +144,4 @@ Dokumen ini adalah panduan serba guna untuk menyelenggarakan acara di LombokDev.
     - Foto - Flickr, Public Domain
     - Video - Youtube, Youtube standar license 
     - Blog - Medium
+  - Ucapan terima kasih atas sponsorship di sosmed
