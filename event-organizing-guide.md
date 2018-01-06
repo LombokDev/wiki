@@ -1,11 +1,15 @@
 
+Dokumen ini adalah panduan serba guna untuk menyelenggarakan acara di LombokDev. Semua yang tertulis di bawah ini (kecuali yang opsional) adalah standar minimal yang perlu dicapai/diselesaikan.
+
 ## Requirement pra acara :
 
 - Venue
   - AC cukup dingin untuk total peserta
   - Lokasi mudah dijangkau
   - Nyaman
-  - Opsional, venue dapat menyediakan konsumsi sekalian
+  - Konsumsi :
+    - Minimal 1x coffee break
+    - Venue dapat menyediakan konsumsi sekalian (opsional)
 - Topik
   - Slot waktu untuk 1 sponsor utama maksimal 20 menit
   - Sponsor pendukung tidak mendapat waktu slot bicara, namun akan dimention oleh moderator.
@@ -53,7 +57,7 @@
     - Video [H]
     - Persiapan publikasi (daring + luring)
       - Inisiasi repository (clone repo template acara)
-      - Form registrasi - google form, inputan:
+      - Form registrasi (gunakan Google Forms) :
         - Deskripsi/pengantar tentang acara/komunitas
         - Email *
         - Nama *
@@ -77,7 +81,7 @@
    - Requirement didaftar dalam tiket project untuk transparasi progres
    - Manajemen peserta
      - Konfirmasi peserta bertingkat. Secara berurutan dikonfirmasi dengan email, sms dan telepon. Peserta yang tidak mengkonfirmasi email akan disms, dan seterusnya.
-       - Email (immediatelly, opsi di gform, responder dapat salinan responnya)
+       - Email (immediatelly, opsi di Google Forms, responder dapat salinan responnya)
        - Email
        - Sms
        - Telepon
@@ -97,9 +101,8 @@
      - Stiker, logo stiker ikut bentuk sub acara (Meetup, Hackathon, Workshop)
      - Presensi peserta
      - Susunan acara
-     - Konsumsi
-       - Minimal ada 1x coffee break
-     - Form feedback :
+     - Konsumsi : Apakah ditangani sendiri atau ditanggung venue? Apakah persiapan konsumsi aman?
+     - Form feedback (gunakan Google Forms) :
        - Kepuasan (skala)
        - Materi sesuai ekspektasi? (skala)
        - Materi favorit meetup ini (radio button)
@@ -108,6 +111,7 @@
        - Masukkan topik (essay)
 
 ## Requirement hari H :
+
   - Tim tiba 1 jam sebelum registrasi dimulai
   - Ceklist perlengkapan acara
   - Ujicoba perangkat elektronik 
@@ -119,8 +123,7 @@
     - AC
   - SDM yang berlabel [H] harus siaga, sisanya standby
 
-
-# Requirement pasca acara:
+## Requirement pasca acara:
   - Distribusikan form feedback untuk peserta
   - Checklist perlengkapan
   - Evaluasi
@@ -129,9 +132,9 @@
   - Laporan
     - Dana
       - Dana masuk
-      - Dana keluar:
-    - Nota
-    - Sisa dana
+      - Dana keluar
+      - Nota
+      - Sisa dana
   - Dokumentasi:
     - Foto - Flickr, Public Domain
     - Video - Youtube, Youtube standar license 
