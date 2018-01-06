@@ -1,1 +1,136 @@
 
+## Requirement pra acara :
+
+- Venue
+  - AC cukup dingin untuk total peserta
+  - Lokasi mudah dijangkau
+  - Nyaman
+  - Opsional, venue dapat menyediakan konsumsi sekalian
+- Topik
+  - Slot waktu untuk 1 sponsor utama maksimal 20 menit
+  - Sponsor pendukung tidak mendapat waktu slot bicara, namun akan dimention oleh moderator.
+  - Meetup (tech talk & lightning talk) :
+    - Setiap meetup, 1 topik non-teknis (opsional, diusahakan)
+    - Masukkan topik ke kolom dijadwalkan
+    - Geser proposal (Talks Proposal) yang dijadwalkan ke kolom selesai
+  - Workshop :
+    - Masukkan topik ke kolom dijadwalkan
+    - Geser proposal (Talks Proposal) yang dijadwalkan ke kolom selesai
+  - Hackathon :
+    - Tema hackhaton diambil dari masalah riil yang ada di masyarakat
+- Tetapkan tanggal acara
+- Dana
+  - Pencarian + koordinasi dengan sponsor
+  - Survey kebutuhan (bisa berasal dari evaluasi meetup sebelumnya). Kebutuhan berulang, misal :
+    - Biaya venue
+    - Konsumsi (opsional)
+    - Banner
+    - etc
+  - Ajukan budget berdasarkan daftar kebutuhan
+  - Detil proposal :
+    - Jumlah peserta di proposal diambil dari spek venue yang diajukan
+    - Tidak ada batas sponsor, sponsor terdiri dari :
+      - Utama, hanya 1
+      - Pendukung, tak terbatas
+    - Setelah dapat dana, cocokkan dana dengan venue yang ada
+  - Goodies
+    - Diberikan saat acara bubar untuk menahan peserta agar kembali lagi setelah makan siang
+- Tetapkan jumlah peserta
+- Koordinasi dengan venue
+- Kepanitian dan tanggung jawab
+  - Perlengkapan:
+    - Koordinasi requirement pra acara
+    - Checklist perlengkapan [H-1]
+    - Checklist perlengkapan [H]
+    - Menjaga acara berjalan lancar [H]
+    - Stand registrasi [H]
+  - Acara:
+    - Moderator [H]
+    - Publikasi dan Dokumentasi:
+      - Foto [H]
+      - Video [H]
+    - Requirement didaftar dalam tiket project
+    - Persiapan publikasi (daring + luring)
+      - Inisiasi repository (clone repo template acara)
+      - Form registrasi - google form, inputan:
+        - Deskripsi/pengantar tentang acara/komunitas
+        - Email *
+        - Nama *
+        - Telpon *
+        - Minat *
+        - Topik yang ingin anda dengar di meetup ini *
+        - Domisili 
+        - Gelar profesi *
+        - Gender : Male, Female
+        - Institusi (Universitas, Perusahaan, Sekolah, Umum) *
+        - Dari mana mengetahui tentang LombokDev?
+        - Ingin ikut berbagi? (masukkan topik)
+      - Poster di sosmed
+        - Tanggal dan waktu
+        - Tempat
+        - Narahubung
+        - Tautan pendaftaran
+        - Daftar topik
+        - Sponsor
+       - Poster fisik untuk ditempel (opsional)
+     - Manajemen peserta
+       - Konfirmasi peserta bertingkat. Secara berurutan dikonfirmasi dengan email, sms dan telepon. Peserta yang tidak mengkonfirmasi email akan disms, dan seterusnya.
+         - Email (immediatelly, opsi di gform, responder dapat salinan responnya)
+         - Email
+         - Sms
+         - Telepon
+       - Gunakan siklus waiting list
+     - Persiapan perlengkapan acara :
+       - Sound system
+       - Microphone handless
+       - Voice recorder (bisa pakai smartphone)
+       - LCD Proyektor
+       - Kabel dan konverter (VGA, HDMI, Thunderbolt) 
+       - Kamera handycam untuk rekam video + tripod
+       - Kamera untuk foto
+       - X-Banner
+         - Logo LombokDev + logo sponsor
+         - Logo sub event ditambahkan urutan meetup, misal LombokDev Meetup #4,  LombokDev Hackathon #1
+       - Sponsor stuff (opsional)
+       - Stiker, logo stiker ikut bentuk sub acara (Meetup, Hackathon, Workshop)
+     - Presensi peserta
+     - Susunan acara
+     - Konsumsi
+       - Minimal ada 1x coffee break
+     - Form feedback :
+       - Kepuasan (skala)
+       - Materi sesuai ekspektasi? (skala)
+       - Materi favorit meetup ini (radio button)
+       - Kritik dan saran (essay)
+       - Ingin ikut berbagi? (radio button)
+       - Masukkan topik (essay)
+
+## Requirement hari H :
+  - Tim tiba 1 jam sebelum registrasi dimulai
+  - Ceklist perlengkapan acara
+  - Ujicoba perangkat elektronik 
+    - Soundsystem
+    - Mic
+    - LCD proyektor + konverter display 
+    - Kamera
+    - Handycam
+    - AC
+  - SDM yang berlabel [H] harus siaga, sisanya standby
+
+
+# Requirement pasca acara:
+  - Distribusikan form feedback untuk peserta
+  - Checklist perlengkapan
+  - Evaluasi
+    - Presensi
+    - Kritik dan saran 
+  - Laporan
+    - Dana
+      - Dana masuk
+      - Dana keluar:
+    - Nota
+    - Sisa dana
+  - Dokumentasi:
+    - Foto - Flickr, Public Domain
+    - Video - Youtube, Youtube standar license 
+    - Blog - Medium
