@@ -22,4 +22,5 @@ Halaman ini berisi konsep-konsep acara yang sudah dan akan pakai oleh komunitas 
 - [Hackathon](./hackathon.md)
 - [Bootcamp](./bootcamp.md)
 - [Workshop](./workshop.md)
+- [Panel diskusi](./panel-diskusi.md)
 - Kopdar
