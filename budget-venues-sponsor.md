@@ -22,4 +22,5 @@ Untuk memenuhi budget target, berikut beberapa calon sponsor potensial :
 - Bekraf (diajukan 4 bulan sebelum acara, http://www.bekraf.go.id/satupintu)
 - https://community.github.com/
 - Biznet Cloud :white_check_mark: 
-- Bimajaya :white_check_mark: 
+- Bimajaya :white_check_mark:
+- rwahyu
