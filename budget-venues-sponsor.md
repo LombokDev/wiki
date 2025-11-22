@@ -8,8 +8,9 @@
 | 2.5jt s/d 5jt | pakai konsumsi     | 50 (?)           | Rock Gilis Coffee | annual lightning talk, tech talk |	    	|
 | ?  	        	| ?		               | 100 ++           | Restaurant Grimax | annual lightning talk, tech talk                   | (0370) 671104	|
 | ? 		        | ?     	           | 60 (?)           | Heroes Cafe       | annual lightning talk, tech talk |		    |
-| ? 		        | ?     	           | 500              | Narmada Convention Hall | annual lightning talk, tech talk |		    |
-| 40rb/pax for non-blocking customers, 35rb/pax for blocking other customers and more than 70 paxes max 5 jam) | pakai konsumsi (ricebowl ayam bawang + esteh) | 70 | Uttara, Jalan Gn. Kerinci | 2-3 tech talk | bq_nana (IG) |
+| ? 		        | ?     	           | 500              | Narmada Convention Hall | tech talk |		    |
+| 40rb/pax for non-blocking customers, 35rb/pax for blocking other customers and more than 70 paxes max 5 jam) | pakai konsumsi (ricebowl ayam bawang + esteh) | 70 outdoor | Uttara, Jalan Gn. Kerinci | 2-3 tech talk | bq_nana (IG) |
+| 30rb/pax blocking other customers | pakai konsumsi (kopi, air mineral, snack prasmanan) | 100 indoor | Subr, Karang Pule | tech talk | https://www.instagram.com/subr.idn/ |
 
 # Sponsorship
 
