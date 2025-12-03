@@ -1,15 +1,17 @@
 # Jalur Donasi
 
-#### Bank Jago atas nama Hayi Nukman
+## Bank Jago atas nama Hayi Nukman
 ```
 102046759237
 ```
 
-#### Saweria
+## Saweria
 
 https://saweria.co/lombokdev
 
-# Penanggung Jawab:
+Dana di Saweria akan di-cashout ke Bank Jago secara berkala.
+
+# Penanggung Jawab
 - Hayi Nukman
 - Herpiko Dwi Aguno
 - Miftahul Jihad
