@@ -31,7 +31,7 @@ https://saweria.co/lombokdev
 | 2020-11-14  | Rukmin Ulfaayu Lestari                                  | Transfer ke Bank Jago                | 100,000      |           |             |
 | 2020-11-15  | Rahmat Wahyu Hadi                                       | Transfer ke Bank Jago                | 2,000,000    |           |             |
 | 2020-11-18  | Eby Sofyan Fadly                                        | Transfer ke Bank Jago                | 150,000      |           |             |
-| 2020-11-15  | Cetak X-Banner                                          | Cetak di Kubus Digital Karang Pule   |              | 100,00    |             |
+| 2020-11-15  | Cetak X-Banner                                          | Cetak di Kubus Digital Karang Pule   |              | 100,000   |             |
 | 2020-11-28  | Lalu Lian Hari Wangi                                    | Transfer ke Bank Jago                | 100,000      |           |             |
 | 2020-11-28  | Lalu Lian Hari Wangi                                    | Transfer ke Bank Jago                | 100,000      |           |             |
 | 2020-11-29  | Lalu Erfandi Maulana Yusnu                              | Transfer ke Bank Jago                | 1,000,000    |           |             |
