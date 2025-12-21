@@ -55,8 +55,8 @@ Dana di Saweria akan di-cashout ke Bank Jago secara berkala.
 | 2025-12-20  | Indra Aryad                   | Transfer ke Bank Jago              | 30,000       |           |
 | 2025-12-20  | Silvia Udiantari              | Transfer ke Bank Jago              | 60,000       |           |
 | 2025-12-20  | Deni Marswandi                | Transfer ke Bank Jago              | 1,000,000    |           |
-| 2020-11-21  | Saweria Cashout               | Transfer ke Bank Jago              | 2,128,000    |           |
-| 2025-12-18  | X-bannelr                     | Kubus Digital                      |              | 100,000   |
+| 2020-11-21  | Saweria Cashout               | Transfer ke Bank Jago (pending)    | 2,128,000    |           |
+| 2025-12-18  | X-banner                      | Kubus Digital                      |              | 100,000   |
 
 
 
