@@ -45,8 +45,8 @@ Dana di Saweria akan di-cashout ke Bank Jago secara berkala.
 | 2025-12-12  | Cetak kaos untuk Speaker      | Lalu Irpan Hanapi                  |              | 485,000   |
 | 2025-12-12  | Penyesuaian                   | Transfer ke Bank Jago              | 80,000       |           |
 | 2025-12-13  | Penyesuaian                   | Transfer ke Bank Jago              | 250,000      |           |
-| 2025-12-16  | Inside Lombok                 | Operasional                        |              | 275,000   |
-| 2025-12-18  | Sticker (Kubus)               | Produksi                           |              | 224,000   |
+| 2025-12-16  | Promosi sosial media          | Inside Lombok                      |              | 275,000   |
+| 2025-12-18  | Sticker                       | Kubus Digital                      |              | 224,000   |
 | 2025-12-18  | Muh. Tammami Kurniawan        | Transfer ke Bank Jago              | 250,000      |           |
 | 2025-12-18  | Bahrul Hidayat                | Transfer ke Bank Jago              | 100,000      |           |
 | 2025-12-18  | Gema Antika Hariadi           | Transfer ke Bank Jago              | 150,000      |           |
@@ -56,6 +56,7 @@ Dana di Saweria akan di-cashout ke Bank Jago secara berkala.
 | 2025-12-20  | Silvia Udiantari              | Transfer ke Bank Jago              | 60,000       |           |
 | 2025-12-20  | Deni Marswandi                | Transfer ke Bank Jago              | 1,000,000    |           |
 | 2020-11-21  | Saweria Cashout               | Transfer ke Bank Jago              | 2,128,000    |           |
+| 2025-12-18  | X-bannelr                     | Kubus Digital                      |              | 100,000   |
 
 
 
