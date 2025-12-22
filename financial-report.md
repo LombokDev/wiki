@@ -42,7 +42,7 @@ Dana di Saweria akan di-cashout ke Bank Jago secara berkala.
 | 2020-11-30  | Ilham Bintang                 | Transfer ke Bank Jago              | 1,000,000    |           |
 | 2025-12-04  | Cetak Poster A3 dan A4        | Kubus Digital Karang Pule          |              | 75,000    |
 | 2025-12-08  | Anonim                        | Transfer ke Bank Jago              | 20,000,000   |           |
-| 2025-12-12  | Cetak kaos untuk Speaker      | Lalu Irpan Hanapi                  |              | 485,000   |
+| 2025-12-12  | Cetak kaos untuk pembicara    | Lalu Irpan Hanapi                  |              | 485,000   |
 | 2025-12-12  | Penyesuaian                   | Transfer ke Bank Jago              | 80,000       |           |
 | 2025-12-13  | Penyesuaian                   | Transfer ke Bank Jago              | 250,000      |           |
 | 2025-12-16  | Promosi sosial media          | Inside Lombok                      |              | 275,000   |
@@ -57,7 +57,7 @@ Dana di Saweria akan di-cashout ke Bank Jago secara berkala.
 | 2025-12-20  | Deni Marswandi                | Transfer ke Bank Jago              | 1,000,000    |           |
 | 2020-11-21  | Saweria Cashout               | Transfer ke Bank Jago (pending)    | 2,128,000    |           |
 | 2025-12-18  | X-banner                      | Kubus Digital                      |              | 100,000   |
-| 2025-12-18  | Sewa tempat + snack + drink   | Subr                               |              | 3,000,000 |
+| 2025-12-18  | Sewa tempat + snack + drink (meetup 013)  | Subr                               |              | 3,000,000 |
 
 
 
