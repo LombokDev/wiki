@@ -19,7 +19,7 @@ Dana di Saweria akan di-cashout ke Bank Jago secara berkala.
 
 # Saldo Terakhir per 21 Desember 2025
 
-- Bank Jago: Rp30.393.024
+- Bank Jago: Rp27.288.024
 - Saweria: Rp0
 
 # Catatan Transaksi
@@ -57,6 +57,7 @@ Dana di Saweria akan di-cashout ke Bank Jago secara berkala.
 | 2025-12-20  | Deni Marswandi                | Transfer ke Bank Jago              | 1,000,000    |           |
 | 2020-11-21  | Saweria Cashout               | Transfer ke Bank Jago (pending)    | 2,128,000    |           |
 | 2025-12-18  | X-banner                      | Kubus Digital                      |              | 100,000   |
+| 2025-12-18  | Sewa tempat + snack + drink   | Subr                               |              | 3,000,000 |
 
 
 
